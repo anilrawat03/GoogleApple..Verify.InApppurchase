@@ -7,11 +7,11 @@
     <Description>To verify the Apple and google In Appurchase receipt</Description>
     <PackageRequireLicenseAcceptance>False</PackageRequireLicenseAcceptance>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <RepositoryUrl>https://github.com/anilrawat03/VerifyInAppPurchase</RepositoryUrl>
+    <RepositoryUrl>https://github.com/anilrawat03/GoogleApple..Verify.InApppurchase</RepositoryUrl>
     <PackageId>GoogleApple.Verify.InAppPurchase</PackageId>
     <AssemblyVersion>1.0.0.1</AssemblyVersion>
     <FileVersion>1.0.0.1</FileVersion>
-    <Version>1.0.1</Version>
+    <Version>1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>

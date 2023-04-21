@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Anil Xicom\\NugetPackage\\VerifyInAppPurchase-master\\VerifyInAppPurchase-master\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj": {}
+    "D:\\Working\\NugetPackages\\VerifyInAppPurchase\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj": {}
   },
   "projects": {
-    "E:\\Anil Xicom\\NugetPackage\\VerifyInAppPurchase-master\\VerifyInAppPurchase-master\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj": {
-      "version": "1.0.1",
+    "D:\\Working\\NugetPackages\\VerifyInAppPurchase\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj": {
+      "version": "1.0.2",
       "restore": {
-        "projectUniqueName": "E:\\Anil Xicom\\NugetPackage\\VerifyInAppPurchase-master\\VerifyInAppPurchase-master\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj",
+        "projectUniqueName": "D:\\Working\\NugetPackages\\VerifyInAppPurchase\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj",
         "projectName": "GoogleApple.Verify.InAppPurchase",
-        "projectPath": "E:\\Anil Xicom\\NugetPackage\\VerifyInAppPurchase-master\\VerifyInAppPurchase-master\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj",
-        "packagesPath": "C:\\Users\\Anil Rawat\\.nuget\\packages\\",
-        "outputPath": "E:\\Anil Xicom\\NugetPackage\\VerifyInAppPurchase-master\\VerifyInAppPurchase-master\\VerifyInAppPurchase\\obj\\",
+        "projectPath": "D:\\Working\\NugetPackages\\VerifyInAppPurchase\\VerifyInAppPurchase\\VerifyInAppPurchase.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "D:\\Working\\NugetPackages\\VerifyInAppPurchase\\VerifyInAppPurchase\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\Anil Rawat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -77,7 +82,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
