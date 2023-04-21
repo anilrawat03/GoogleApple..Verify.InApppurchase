@@ -1,0 +1,24 @@
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.csproj.AssemblyReference.cache
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.AssemblyInfoInputs.cache
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.AssemblyInfo.cs
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.csproj.CoreCompileInputs.cache
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\bin\Debug\net7.0\VerifyInAppPurchase.deps.json
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\bin\Debug\net7.0\VerifyInAppPurchase.dll
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\bin\Debug\net7.0\VerifyInAppPurchase.pdb
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.dll
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\refint\VerifyInAppPurchase.dll
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.pdb
+D:\Working\NugetPackages\VerifyInAppPurchase\VerifyInAppPurchase\obj\Debug\net7.0\ref\VerifyInAppPurchase.dll
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\bin\Debug\net7.0\VerifyInAppPurchase.deps.json
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\bin\Debug\net7.0\VerifyInAppPurchase.dll
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\bin\Debug\net7.0\VerifyInAppPurchase.pdb
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.csproj.AssemblyReference.cache
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.GeneratedMSBuildEditorConfig.editorconfig
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.AssemblyInfoInputs.cache
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.AssemblyInfo.cs
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.csproj.CoreCompileInputs.cache
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.dll
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\refint\VerifyInAppPurchase.dll
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\VerifyInAppPurchase.pdb
+E:\Anil Xicom\NugetPackage\VerifyInAppPurchase-master\VerifyInAppPurchase-master\VerifyInAppPurchase\obj\Debug\net7.0\ref\VerifyInAppPurchase.dll
